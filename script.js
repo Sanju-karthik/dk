@@ -15,7 +15,7 @@ let formateddate = new Date(inputdate.value).toLocaleDateString("en-IN");
 }
 
  else{
-     //alert("Please check the Captcha box to submit the lead");
+     alert("Please check the Captcha box to submit the lead");
      event.preventDefault();
 
    }
