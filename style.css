@@ -34,3 +34,9 @@
         padding:23px;
         }
 
+        .g-recaptcha{
+            margin:15px;
+            justify-content: center;
+        display: flex;
+        }
+
